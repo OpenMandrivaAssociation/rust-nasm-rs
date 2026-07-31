@@ -5,8 +5,8 @@
 %global crate nasm-rs
 
 Name:           rust-%{crate}
-Version:        0.1.7
-Release:        2%{?dist}
+Version:        0.3.2
+Release:        1%{?dist}
 Summary:        Run NASM during your Cargo build
 
 # Upstream license specification: MIT OR Apache-2.0
